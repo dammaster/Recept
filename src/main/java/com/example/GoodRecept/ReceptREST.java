@@ -27,7 +27,7 @@ public class ReceptREST
 	}
 
 
-
+/*
 
 	   //**********************SHOW ALL RECEPTS*************************ok
 	@RequestMapping(path = "/recept" ,method = RequestMethod.GET ,produces = MediaType.APPLICATION_JSON_VALUE)
@@ -45,7 +45,7 @@ public class ReceptREST
            receptServiceImp.saveRecept(recept);
 	       }
 
-
+*/
 	 //**********************SHOW RECEPT BY ID**************************ok
 	@RequestMapping(path = "/recept/{id}" ,method = RequestMethod.GET ,produces = MediaType.APPLICATION_JSON_VALUE)
 
@@ -85,7 +85,7 @@ public class ReceptREST
 	///////////////////////////////////////////////////////////////////////////
 
 
-/*
+
 
 	//**********************SHOW ALL RECEPTS FROM data.txx***********ok
 	@RequestMapping(path = "/recept", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
@@ -135,7 +135,7 @@ public class ReceptREST
 	}
 
 
-*/
+
 
 
 	}

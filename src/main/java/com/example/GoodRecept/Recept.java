@@ -84,20 +84,20 @@ public class Recept
     }
 
 
-
+/*
     @Override
     public String toString() {
         return "Recept [id=" + this.id + ", name=" + this.name + ", image=" + this.image + ", level=" + this.level + ", time=" + this.time + ", ingredients=" + this.ingredients + ", make=" + this.make + "]";
     }
-
+*/
 
 
 //////////////////////////////data.txt String//////////////////////
- /*
+
     @Override
     public String toString() {
         return " {id=" + this.id + ", name=" + this.name + ", image=" + this.image + ", level=" + this.level + ", time=" + this.time + ", ingredients=" + this.ingredients + ", make=" + this.make + "},";
     }
 
-*/
+
 }
