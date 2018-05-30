@@ -11,7 +11,6 @@ public class Recept
     private String make;
 
 
-
     public Recept() {}
 
     public Recept(long id, String name, String image, String level, String time, String ingredients, String make )
