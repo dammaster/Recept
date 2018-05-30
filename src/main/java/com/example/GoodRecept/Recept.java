@@ -12,8 +12,6 @@ public class Recept
 
 
 
-
-
     public Recept() {}
 
     public Recept(long id, String name, String image, String level, String time, String ingredients, String make )
@@ -90,7 +88,6 @@ public class Recept
         return "Recept [id=" + this.id + ", name=" + this.name + ", image=" + this.image + ", level=" + this.level + ", time=" + this.time + ", ingredients=" + this.ingredients + ", make=" + this.make + "]";
     }
 */
-
 
 //////////////////////////////data.txt String//////////////////////
 
